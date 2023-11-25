@@ -1,0 +1,26 @@
+/* style.css */
+
+/* Mengatur warna latar belakang dan warna teks untuk body */
+body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+/* Mengatur tampilan heading (judul) */
+h1 {
+    color: #ff6600; /* Warna teks jingga */
+    background-color: #333; /* Warna latar belakang gelap */
+    padding: 10px; /* Ruang polos di sekitar heading */
+}
+
+/* Mengatur tampilan paragraf */
+p {
+    font-size: 18px; /* Ukuran font 18px */
+    line-height: 1.5; /* Jarak antar baris 1.5 kali ukuran font */
+}
+
+.teks-merah {
+    color: red;
+    font-size: 16px;
+}
